@@ -1,0 +1,15 @@
+build
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/bin/
+out
+/data
+target/
+.DS_Store
+/.envrc
+keyfile.json
+/.idea/

@@ -1,0 +1,6 @@
+### DEMO PUBSUB EMULATOR JAVA SPRING
+
+#### Prerequesites
+
+`https://cloud.google.com/pubsub/docs/emulator`
+
